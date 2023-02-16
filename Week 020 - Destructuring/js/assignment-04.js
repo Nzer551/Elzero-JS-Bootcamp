@@ -1,13 +1,11 @@
 // Lessons from 115>>>122 Assignments
 // Assignment 4
-
 const member = {
   age: 30,
   working: false,
   country: "Egypt",
   hobbies: ["Reading", "Swimming", "Programming"],
 };
-
 let {age: a, working: w, country: c, hobbies: [h1, , h3]} = member;
 
 console.log(`My Age Is ${a} And Iam ${w ? "" : "Not"} Working`);

@@ -1,6 +1,5 @@
 // Lessons from 18>>>22 Assignments
 // Assignment 2
-
 let num = 3;
 
 // Solution One

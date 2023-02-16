@@ -1,6 +1,5 @@
 // Lessons from 56>>>63 Assignments
 // Assignment 2
-
 // Needed Output
 calculate(20); // Second Number Not Found
 calculate(20, 30); // 50

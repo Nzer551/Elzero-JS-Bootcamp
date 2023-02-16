@@ -1,14 +1,11 @@
 // Lessons from 79>>>85 Assignments
 // Assignment 3
-
 let a = 1;
-
 let threeNums = {
   b: 2,
   c: 3,
   d: 4,
 };
-
 let twoNums = {
   e: 5,
   f: 6,

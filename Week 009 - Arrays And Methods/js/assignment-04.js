@@ -1,6 +1,5 @@
 // Lessons from 40>>>47 Assignments
 // Assignment 4
-
 let website = "Go";
 let words = [`${website}ogle`, "Facebook", ["Elzero", "Web", "School"]];
 

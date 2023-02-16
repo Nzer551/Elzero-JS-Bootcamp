@@ -1,6 +1,5 @@
 // Lessons from 94>>>101 Assignments
 // Assignment 3
-
 let myDiv = document.getElementsByClassName("our-element")[0];
 let paragraph = document.getElementsByTagName("p")[0];
 let startElement = document.createElement("div");

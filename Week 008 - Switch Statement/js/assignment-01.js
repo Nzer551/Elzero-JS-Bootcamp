@@ -1,6 +1,5 @@
 // Lessons from 38>>>39 Assignments
 // Assignment 1
-
 let day = "   Friday  ";
 
 switch (

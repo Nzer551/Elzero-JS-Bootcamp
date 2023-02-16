@@ -1,6 +1,5 @@
 // Lessons from 147>>>156 Assignments
 // Assignment 1
-
 let dateNow = new Date();
 let birthDate = new Date("Nov 2 94");
 let différenceDate = dateNow - birthDate;

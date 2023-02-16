@@ -1,6 +1,5 @@
 // Lessons from 40>>>47 Assignments
 // Assignment 3
-
 let arrOne = ["C", "D", "X"];
 let arrTwo = ["A", "B", "Z"];
 let finalArr = [];

@@ -1,6 +1,5 @@
 // Lessons from 31>>>32 Assignments
 // Assignments 3
-
 let a = 20;
 let b = 30;
 let c = 10;

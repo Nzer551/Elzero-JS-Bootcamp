@@ -1,6 +1,5 @@
 // Lessons from 27>>>30 Assignments
 // Assignment 2
-
 let word = "Elzero";
 let letterZ = "z";
 let letterE = "e";

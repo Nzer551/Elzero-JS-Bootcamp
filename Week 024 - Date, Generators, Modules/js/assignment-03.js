@@ -1,6 +1,5 @@
 // Lessons from 147>>>156 Assignments
 // Assignment 3
-
 let dateNow = new Date();
 let monthsName = ["January",	"February", "March", "April",	"Ma", "June", "July",	"August", "September", "October", "November", "December"];
 

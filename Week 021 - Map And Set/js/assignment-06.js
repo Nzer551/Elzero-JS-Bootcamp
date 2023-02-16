@@ -1,6 +1,5 @@
 // Lessons from 123>>>133 Assignments
 // Assignment 6
-
 let chars = ["A", "B", "C", "D", "E", 10, 15, 6];
 let charsArray = [];
 let numbersArray = [];

@@ -1,7 +1,7 @@
 // Lessons from 27>>>30 Assignments
 // Assignment 1
-
 let userName = "Elzero";
+
 console.log(userName.slice(3, 4)); // e
 console.log(userName.charAt(3)); // e
 console.log(userName.substring(3, 4)); // e

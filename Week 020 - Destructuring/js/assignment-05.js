@@ -1,6 +1,5 @@
 // Lessons from 115>>>122 Assignments
 // Assignment 5
-
 const game = {
   title: "YS",
   developer: "Falcom",
@@ -13,11 +12,8 @@ const game = {
     Origin: "30 USD",
   },
 };
-
 let {title: t, developer: d, releases: {'Oath In Felghana': [u, j], 'Ark Of Napishtim': {US: u_price, JAP: j_price}, Origin: or}} = game;
-
 let gameReleases = Object.keys(game.releases);
-
 let [o, a] = gameReleases;
 
 // Write Your Destructuring Assignment/s Here

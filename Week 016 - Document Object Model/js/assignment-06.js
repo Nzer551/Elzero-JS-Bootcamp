@@ -1,6 +1,5 @@
 // Lessons from 86>>>93 Assignments
 // Assignment 6
-
 let theForm = document.forms[0];
 let theInput = document.querySelectorAll(".input, input[type='submit']");
 let numberInput = document.querySelector("input[type='number']");
@@ -64,6 +63,7 @@ theForm.onsubmit = function (event) {
   if(theResult.children.length === 0) {
     for(let i = 1; i <= numbersOfElements; i ++) {
     let createdElement = document.createElement(selectedElement);
+
     createdElement.textContent = elementTextNode;
     createdElement.className = "box";
     createdElement.title = "element";
@@ -83,6 +83,7 @@ theForm.onsubmit = function (event) {
     theResult.innerHTML = "";
     for(let i = 1; i <= numbersOfElements; i ++) {
     let createdElement = document.createElement(selectedElement);
+
     createdElement.textContent = elementTextNode;
     createdElement.className = "box";
     createdElement.title = "element";

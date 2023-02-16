@@ -1,6 +1,5 @@
 // Lessons from 102>>>110 Assignments
 // Assignment 4
-
 let couterDiv = document.querySelector(".counter");
 let handeler = setInterval(countDown, 1000);
 

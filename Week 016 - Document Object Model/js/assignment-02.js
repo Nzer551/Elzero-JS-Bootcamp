@@ -1,6 +1,5 @@
 // Lessons from 86>>>93 Assignments
 // Assignment 2
-
 let images = document.querySelectorAll("img");
 let source = "../image/favicon/favicon.ico";
 let altText = "Elzero Logo";

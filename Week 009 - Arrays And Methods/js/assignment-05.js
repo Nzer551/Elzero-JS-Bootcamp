@@ -1,6 +1,5 @@
 // Lessons from 40>>>47 Assignments
 // Assignment 5
-
 let needle = "JS";
 let haystack = ["PHP", "JS", "Python"];
 

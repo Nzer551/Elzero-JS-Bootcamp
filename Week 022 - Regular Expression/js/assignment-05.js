@@ -1,6 +1,5 @@
 // Lessons from 134>>>146 Assignments
 // Assignment 5
-
 let date1 = "25/10/1982";
 let date2 = "25 - 10 - 1982";
 let date3 = "25 10 1982";

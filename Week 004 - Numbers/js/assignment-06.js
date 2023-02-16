@@ -1,6 +1,5 @@
 // Lessons from 23>>>26 Assignments
 // Assignment 6
-
 let flt = 10.4;
 
 console.log(parseInt(flt)); // 10

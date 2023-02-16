@@ -1,3 +1,5 @@
+// Lessons from 179>>>188 Assignments
+// Assignment 1
 let scriptElement = document.querySelector("script");
 
 const myPromise = new Promise((resolve, reject) => {

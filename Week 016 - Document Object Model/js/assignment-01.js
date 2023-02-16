@@ -1,6 +1,5 @@
 // Lessons from 86>>>93 Assignments
 // Assignment 1
-
 let method1 = document.querySelector("#elzero");
 let method2 = document.querySelector(".element");
 let method3 = document.body.querySelector("div[name='js']");
@@ -17,18 +16,18 @@ let method12 = document.getElementsByTagName("div")[0];
 let method14 = document.body.getElementsByTagName("div")[0];
 let method15 = document.body.getElementsByClassName("element")[0];
 
-  console.log(method1);
-  console.log(method2);
-  console.log(method3);
-  console.log(method4);
-  console.log(method5);
-  console.log(method6);
-  console.log(method7);
-  console.log(method8);
-  console.log(method9);
-  console.log(method10);
-  console.log(method11);
-  console.log(method12);
-  //console.log(method13);
-  console.log(method14);
-  console.log(method15);
+console.log(method1);
+console.log(method2);
+console.log(method3);
+console.log(method4);
+console.log(method5);
+console.log(method6);
+console.log(method7);
+console.log(method8);
+console.log(method9);
+console.log(method10);
+console.log(method11);
+console.log(method12);
+//console.log(method13);
+console.log(method14);
+console.log(method15);

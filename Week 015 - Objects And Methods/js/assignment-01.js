@@ -1,6 +1,5 @@
 // Lessons from 79>>>85 Assignments
 // Assignment 1
-
 // Create Your Object Here
 let member = {
   name: "Elzero",

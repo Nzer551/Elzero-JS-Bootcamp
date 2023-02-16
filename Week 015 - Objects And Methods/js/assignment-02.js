@@ -1,6 +1,5 @@
 // Lessons from 79>>>85 Assignments
 // Assignment 2
-
 // Method One
 // Create Your Object Here
 let objMethodOne = {

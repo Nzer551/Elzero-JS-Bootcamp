@@ -1,6 +1,5 @@
 // Lessons from 48>>>53 Assignments
 // Assignment 7
-
 // Required Output
 2
 3

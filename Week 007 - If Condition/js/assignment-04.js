@@ -1,12 +1,10 @@
 // Lessons from 33>>>37 Assignments
 // Assignments 4
-
 // Edit What You Want Here
 let num1 = 10;
 let num2 = 9;
 let num3 = 10;
 let num4 = 32;
-
 
 //  Do Not Edit Below This Line
 //  Needed Output (True 7 Times)

@@ -1,6 +1,5 @@
 // Lessons from 111>>>114 Assignments
 // Assignment 1
-
 let div = document.getElementById("style-option");
 let selectBoxes = document.querySelectorAll("select");
 let colorSelcetBox = document.getElementById("color");
@@ -30,6 +29,7 @@ for(ele of selectBoxes) {
 
 for(let i = 16; i <= 30; i++) {
   let fontSizeOption = document.createElement("option");
+
   fontSizeOption.value = `${i}px`;
   fontSizeOption.textContent = `${i}px`;
   selectBoxes[1].appendChild(fontSizeOption);

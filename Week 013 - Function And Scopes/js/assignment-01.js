@@ -5,6 +5,7 @@ function getDetails(zName, zAge, zCountry) {
   function namePattern(zName){
     let theNameArr = zName.split(" ");
     let theNameStr = `${theNameArr[0]} ${theNameArr[1].toUpperCase().slice(0, 1)}`;
+    
     return `Hello ${theNameStr}.`;
   }
   function ageWithMessage(zAge) {

@@ -1,6 +1,5 @@
 // Lessons from 33>>>37 Assignments
 // Assignments 2
-
 let num1 = 9;
 let str = "9";
 let str2 = "20";

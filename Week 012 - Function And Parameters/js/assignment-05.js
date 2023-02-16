@@ -15,6 +15,7 @@ function createSelectBox(startYear, endYear) {
   // Method 2
   function createSelectBox(startYear, endYear) {
     let selectBox = ``;
+    
     while(startYear <= endYear) {
       selectBox += `<option value="${startYear}">${startYear}</option>`;
       startYear++;

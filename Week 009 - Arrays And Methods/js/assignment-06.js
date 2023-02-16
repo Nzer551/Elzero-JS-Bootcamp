@@ -1,6 +1,5 @@
 // Lessons from 40>>>47 Assignments
 // Assignment 6
-
 let arr1 = ["A", "C", "X"];
 let arr2 = ["D", "E", "F", "Y"];
 let allArrs = [];

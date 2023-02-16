@@ -1,6 +1,5 @@
 // Lessons from 123>>>133 Assignments
 // Assignment 1
-
 let setOfNumbers = new Set([10]);
 setOfNumbers.add(20).add(setOfNumbers.size);
 

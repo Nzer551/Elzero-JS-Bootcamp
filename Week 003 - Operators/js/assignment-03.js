@@ -1,6 +1,5 @@
 // Lessons from 18>>>22 Assignments
 // Assignment 3
-
 let num = "10";
 
 // Solution One

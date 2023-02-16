@@ -12,6 +12,7 @@ class User {
     let cardNumber = this.#c.toString().replaceAll("-", "");
     let regEx = /\d{1,4}/g;
     let validCardNumber = cardNumber.match(regEx).join("-");
+
     return `Hello ${this.u} Your Credit Card Number Is ${validCardNumber}`;
   }
 }

@@ -4,6 +4,7 @@
 function specialMix(...data) {
   let result = 0;
   let str = 0;
+
   for(let elements of data) {
     if(isNaN(parseInt(elements))) {
         str++;

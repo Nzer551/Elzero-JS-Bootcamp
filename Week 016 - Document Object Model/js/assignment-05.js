@@ -1,6 +1,5 @@
 // Lessons from 86>>>93 Assignments
 // Assignment 5
-
 let images = document.images;
 
 for(ele of images) {

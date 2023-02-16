@@ -1,6 +1,5 @@
 // Lessons from 33>>>37 Assignments
 // Assignments 1
-
 let num = 9;
 
 if( num < 10) {

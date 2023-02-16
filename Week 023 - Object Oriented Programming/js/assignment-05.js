@@ -1,6 +1,5 @@
 // Lessons from 147>>>156 Assignments
 // Assignment 5
-
 const myObj = {
   username: "Elzero",
   id: 100,

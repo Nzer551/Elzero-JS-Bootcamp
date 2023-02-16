@@ -1,6 +1,5 @@
 // Lessons from 33>>>37 Assignments
 // Assignments 3
-
 let num1 = 10;
 let num2 = 30;
 let num3 = "30";

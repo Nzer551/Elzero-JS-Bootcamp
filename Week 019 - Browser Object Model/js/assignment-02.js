@@ -1,6 +1,5 @@
 // Lessons from 111>>>114 Assignments
 // Assignment 2
-
 let form = document.forms[0];
 let countrySelect = document.getElementById("user-country");
 let countryOptions = document.getElementById("user-country").options;

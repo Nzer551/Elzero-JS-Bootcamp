@@ -1,6 +1,5 @@
 // Lessons from 86>>>93 Assignments
 // Assignment 3
-
 let myForm = document.forms[0];
 let myInput = document.querySelector("input[name='dollar']");
 let firstSpan = document.getElementsByTagName("span")[0];
@@ -50,6 +49,7 @@ border-radius: 3px;
 
 myInput.oninput = function () {
   let finalresult = myInput.value * 15.6;
+  
   if(myInput.value !== "") {
     firstSpan.textContent = myInput.value;
     secondSpan.textContent = finalresult.toFixed(2);

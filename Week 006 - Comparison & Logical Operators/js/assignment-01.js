@@ -1,6 +1,5 @@
 // Lessons from 31>>>32 Assignments
 // Assignments 1
-
 console.log(100 == "100"); // true
 console.log(100 < 1000); // true
 console.log(110 < 100 || 10 < 20); // true

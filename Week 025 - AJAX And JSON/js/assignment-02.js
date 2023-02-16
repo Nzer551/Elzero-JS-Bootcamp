@@ -1,3 +1,5 @@
+// Lessons from 169>>>178 Assignments
+// Assignment 2
 const xhr = new XMLHttpRequest();
 
 xhr.open("GET","../json/assignment-01-articles.json");

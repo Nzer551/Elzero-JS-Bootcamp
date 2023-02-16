@@ -1,6 +1,5 @@
 // Lessons from 134>>>146 Assignments
 // Assignment 4
-
 let re = /https?:\/\/(?:[-\w]+\.)?([-\w]+)\.\w+(?:\.\w+)?\/?.*/i;
 
 // Explain The Pattern

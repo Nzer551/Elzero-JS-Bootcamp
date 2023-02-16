@@ -1,6 +1,5 @@
 // Lessons from 123>>>133 Assignments
 // Assignment 5
-
 let theName = "Elzero";
 
 // Solution One

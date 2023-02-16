@@ -1,6 +1,5 @@
 // Lessons from 31>>>32 Assignments
 // Assignments 2
-
 let num1 = 10;
 let num2 = 20;
 

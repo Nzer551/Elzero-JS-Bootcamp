@@ -1,6 +1,5 @@
 // Lessons from 79>>>85 Assignments
 // Assignment 4
-
 // The Object To Work With
 let myFavGames = {
   "Trinity Universe": {

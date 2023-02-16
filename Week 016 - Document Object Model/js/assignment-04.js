@@ -1,6 +1,5 @@
 // Lessons from 86>>>93 Assignments
 // Assignment 4
-
 let divOne = document.querySelector(".one");
 let divTwo = document.querySelector(".two");
 let divOneContent = divOne.textContent;
