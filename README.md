@@ -21,8 +21,8 @@ El zero JS bootcamp assignments and challenges with solutions
 # :white_check_mark: Week 019 - Browser Object Model
 # :white_check_mark: Week 020 - Destructuring
 # :white_check_mark: Week 021 - Map And Set
-# Week 022 - Regular Expression
+# :white_check_mark: Week 022 - Regular Expression
 # :white_check_mark: Week 023 - Object Oriented Programming
-# Week 024 - Date, Generators, Modules
+# :white_check_mark: Week 024 - Date, Generators, Modules
 # :white_check_mark: Week 025 - AJAX And JSON
 # :white_check_mark: Week 026 - Promises
