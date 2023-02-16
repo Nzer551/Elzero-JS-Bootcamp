@@ -3,52 +3,52 @@ El zero JS bootcamp assignments and challenges with solutions
 # :white_check_mark: Week 001 - Introduction
   [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)
 # :white_check_mark: Week 002 - Data Types And Variables
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/)
+  [Lessons from 10>>>17 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/)
 # :white_check_mark: Week 003 - Operators
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/)
+  [Lessons from 18>>>22 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/)
 # :white_check_mark: Week 004 - Numbers
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/)
+  [Lessons from 23>>>26 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/)
 # :white_check_mark: Week 005 - Strings And Methods
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/)
+  [Lessons from 27>>>30 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/)
 # :white_check_mark: Week 006 - Comparison & Logical Operators
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/)
+  [Lessons from 31>>>32 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/)
 # :white_check_mark: Week 007 - If Condition
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/)
+  [Lessons from 33>>>37 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/)
 # :white_check_mark: Week 008 - Switch Statement
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/)
+  [Lessons from 38>>>39 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/)
 # :white_check_mark: Week 009 - Arrays And Methods
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/)
+  [Lessons from 40>>>47 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/)
 # :white_check_mark: Week 010 - Loop - For
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/)
+  [Lessons from 48>>>53 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/)
 # :white_check_mark: Week 011 - Loop - While
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/)
+  [Lessons from 54>>>56 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/)
 # :white_check_mark: Week 012 - Function And Parameters
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/)
+  [Lessons from 57>>>63 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/)
 # :white_check_mark: Week 013 - Function And Scopes
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/)
+  [Lessons from 64>>>70 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/)
 # :white_check_mark: Week 014 - Higher Order Functions
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/)
+  [Lessons from 71>>>78 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/)
 # :white_check_mark: Week 015 - Objects And Methods
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-079-to-085/)
+  [Lessons from 79>>>85 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-079-to-085/)
 # :white_check_mark: Week 016 - Document Object Model
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/)
+  [Lessons from 86>>>93 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/)
 # :white_check_mark: Week 017 - Document Object Model
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-094-to-101/)
+  [Lessons from 94>>>101 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-094-to-101/)
 # :white_check_mark: Week 018 - Browser Object Model
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)
+  [Lessons from 102>>>110 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)
 # :white_check_mark: Week 019 - Browser Object Model
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/)
+  [Lessons from 111>>>114 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/)
 # :white_check_mark: Week 020 - Destructuring
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/)
+  [Lessons from 115>>>122 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/)
 # :white_check_mark: Week 021 - Map And Set
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-122-to-133/)
+  [Lessons from 123>>>133 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-122-to-133/)
 # :white_check_mark: Week 022 - Regular Expression
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)
+  [Lessons from 134>>>146 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)
 # :white_check_mark: Week 023 - Object Oriented Programming
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
+  [Lessons from 147>>>158 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
 # :white_check_mark: Week 024 - Date, Generators, Modules
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)
+  [Lessons from 159>>>168 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)
 # :white_check_mark: Week 025 - AJAX And JSON
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
+  [Lessons from 169>>>178 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
 # :white_check_mark: Week 026 - Promises
-  [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
+  [Lessons from 179>>>188 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
