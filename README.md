@@ -41,7 +41,7 @@ El zero JS bootcamp assignments and challenges with solutions
 # :white_check_mark: Week 020 - Destructuring
   [Lessons from 115>>>122 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/)
 # :white_check_mark: Week 021 - Map And Set
-  [Lessons from 123>>>133 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-122-to-133/)
+  [Lessons from 123>>>133 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/)
 # :white_check_mark: Week 022 - Regular Expression
   [Lessons from 134>>>146 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)
 # :white_check_mark: Week 023 - Object Oriented Programming
