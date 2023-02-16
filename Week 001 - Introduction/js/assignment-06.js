@@ -6,6 +6,7 @@
 //document.write("Iam In Page");
 
 // Solution two
-/*console.log("Iam In Console");
+/* 
+console.log("Iam In Console");
 document.write("Iam In Page"); 
 */
