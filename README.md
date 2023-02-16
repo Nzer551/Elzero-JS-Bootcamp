@@ -1,6 +1,6 @@
 # Elzero-JS-Bootcamp
 El zero JS bootcamp assignments and challenges with solutions
-# Week 001 - Introduction
+:white_check_mark: # Week 001 - Introduction
 # Week 002 - Data Types And Variables
 # Week 003 - Operators
 # Week 004 - Numbers
