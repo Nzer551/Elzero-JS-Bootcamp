@@ -2,6 +2,12 @@
 El zero JS bootcamp assignments and challenges with solutions
 ### :white_check_mark: Week 001 - Introduction
   [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/gOdbdvy)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/MWqYPLB)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/vYzEVwG)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/XWPJxwG)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/VwGYEJe)
+  6. [Assignment 6](https://codepen.io/Sideman/pen/poOvxXZ)
 ### :white_check_mark: Week 002 - Data Types And Variables
   [Lessons from 10>>>17 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/)
 ### :white_check_mark: Week 003 - Operators
