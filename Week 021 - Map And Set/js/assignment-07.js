@@ -1,6 +1,5 @@
 // Lessons from 123>>>133 Assignments
 // Assignment 7
-
 let numsOne = [1, 2, 3];
 let numsTwo = [4, 5, 6];
 
