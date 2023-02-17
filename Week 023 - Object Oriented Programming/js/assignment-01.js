@@ -1,13 +1,14 @@
 // Lessons from 147>>>156 Assignments
 // Assignment 1
-
+/*
 function Car(name, model, price) {
   this.n = name;
   this.m = model;
   this.p = price;
 }
+*/
 
-// Conver Function Car() Constructor To Class Declaration
+// Convert Function Car() Constructor To Class Declaration
 
 class Car {
   constructor(name, model, price) {
