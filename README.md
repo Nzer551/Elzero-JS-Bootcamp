@@ -10,7 +10,14 @@ El zero JS bootcamp assignments and challenges with solutions
   
 </details>
 
-<details><summary>Assignments</summary>
+<details>
+  
+  <summary>
+    
+   ## Assignments
+    
+  </summary>
+  
   
 ### :white_check_mark: Week 001 - Introduction
   [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)
