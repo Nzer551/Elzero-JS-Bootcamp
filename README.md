@@ -35,6 +35,9 @@ El zero JS bootcamp assignments and challenges with solutions
   2. [Assignment 2](https://codepen.io/Sideman/pen/abaONGP)
 ### :white_check_mark: Week 006 - Comparison & Logical Operators
   [Lessons from 31>>>32 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/WNgvwKO)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/ZEMGWjo)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/xxaGVJM)
 ### :white_check_mark: Week 007 - If Condition
   [Lessons from 33>>>37 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/)
 ### :white_check_mark: Week 008 - Switch Statement
