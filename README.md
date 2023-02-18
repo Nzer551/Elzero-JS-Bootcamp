@@ -390,4 +390,4 @@
 
 </details><hr/>
 
-### Are you interested in this course? [start now](https://www.youtube.com/c/ElzeroInfo)
+### Are you interested in this course? [start now](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
