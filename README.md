@@ -162,5 +162,11 @@ El zero JS bootcamp assignments and challenges with solutions
   8. [Assignment 8](https://codepen.io/Sideman/pen/GRXJwpj)
 ### :white_check_mark: Week 025 - AJAX And JSON
   [Lessons from 169>>>178 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
+  1. [Assignment 1](Week 025 - AJAX And JSON/json/assignment-01-articles.json)
+  2. [Assignment 2](Week 025 - AJAX And JSON/js/assignment-01.js)
+  3. [Assignment 3](Week 025 - AJAX And JSON/js/assignment-01.js)
+  4. [Assignment 4](Week 025 - AJAX And JSON/js/assignment-01.js)
 ### :white_check_mark: Week 026 - Promises
   [Lessons from 179>>>188 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
+  1. [Assignment 1](Week 026 - Promises/js/assignment-01.js)
+  2. [Assignment 2](Week 026 - Promises/js/assignment-02.js)
