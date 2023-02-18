@@ -1,5 +1,6 @@
 // Lessons from 179>>>188 Assignments
 // Assignment 2
+// Solution
 let scriptElement = document.querySelector("script");
 
 fetch("../json/assignment-01.json").then((data) => {

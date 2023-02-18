@@ -6,9 +6,9 @@ let date3 = "25 10 1982";
 let date4 = "25 10 82";
 
 // Solution 1
-let re = /\d+\D+\d+\D+\d+/; // Write Pattern Here
+let re = /\d+\D+\d+\D+\d+/;
 // Solution 2
-let regEx = /\d+(?:\D+\d+)+/; // Write Pattern Here
+let regEx = /\d+(?:\D+\d+)+/;
 
 console.log(date1.match(re)); // "25/10/1982"
 console.log(date2.match(re)); // "25 - 10 - 1982"

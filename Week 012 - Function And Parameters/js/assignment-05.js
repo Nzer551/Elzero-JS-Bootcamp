@@ -1,25 +1,25 @@
-// Lessons from 56>>>63 Assignments
+// Lessons from 57>>>63 Assignments
 // Assignment 5
-
+// Solutions
 // Method 1
 function createSelectBox(startYear, endYear) {
-    document.write("<select>");
-    while(startYear <= endYear) {
-      document.write('<option value="',startYear, '">', startYear, "</option>");
-      startYear++;
-    }
-    document.write("</select>");
+  document.write("<select>");
+  while (startYear <= endYear) {
+    document.write('<option value="', startYear, '">', startYear, "</option>");
+    startYear++;
   }
-  createSelectBox(2000, 2021);
-  
-  // Method 2
-  function createSelectBox(startYear, endYear) {
-    let selectBox = ``;
-    
-    while(startYear <= endYear) {
-      selectBox += `<option value="${startYear}">${startYear}</option>`;
-      startYear++;
-    }
-    document.write("<select>", selectBox, "</select>");
+  document.write("</select>");
+}
+createSelectBox(2000, 2021);
+
+// Method 2
+function createSelectBox(startYear, endYear) {
+  let selectBox = ``;
+
+  while (startYear <= endYear) {
+    selectBox += `<option value="${startYear}">${startYear}</option>`;
+    startYear++;
   }
-  createSelectBox(2000, 2021);
+  document.write("<select>", selectBox, "</select>");
+}
+createSelectBox(2000, 2021);

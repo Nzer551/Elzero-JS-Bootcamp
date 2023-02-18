@@ -1,4 +1,4 @@
-// Lessons from 147>>>156 Assignments
+// Lessons from 159>>>168 Assignments
 // Assignment 7
 
 function* genNumbers() {
@@ -8,6 +8,7 @@ function* genLetters() {
   yield* ["A", "B", "B", "B", "C", "D"];
 }
 
+// Solution >> Generator Function
 function* genAll() {
   yield* new Set(genNumbers());
   yield* new Set(genLetters());

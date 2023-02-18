@@ -1,6 +1,6 @@
 // Lessons from 102>>>110 Assignments
 // Assignment 2
-
+// Solution
 setTimeout(function () {
   let overlay = document.createElement("div");
   let parentDiv = document.createElement("div");
@@ -15,7 +15,7 @@ setTimeout(function () {
   closeBtn.id = "close";
   closeBtn.innerHTML = `&times;`;
 
-overlay.style.cssText = `
+  overlay.style.cssText = `
 position: fixed;
 top: 0;
 left: 0;
@@ -27,7 +27,7 @@ justify-content: center;
 background-color: rgba(0, 0, 0, .1);
 `;
 
-parentDiv.style.cssText = `
+  parentDiv.style.cssText = `
 position: relative;
 display: flex;
 flex-direction: column;
@@ -41,7 +41,7 @@ border: 1px solid #ddd;
 margin: auto;
 `;
 
-closeBtn.style.cssText = `
+  closeBtn.style.cssText = `
 position: absolute;
 top: -10px;
 right: -5px;
@@ -56,13 +56,13 @@ border-radius: 50%;
 cursor: pointer;
 `;
 
-parentDiv.appendChild(heading);
-parentDiv.appendChild(paragraph);
-parentDiv.appendChild(closeBtn);
-overlay.appendChild(parentDiv);
-document.body.prepend(overlay);
+  parentDiv.appendChild(heading);
+  parentDiv.appendChild(paragraph);
+  parentDiv.appendChild(closeBtn);
+  overlay.appendChild(parentDiv);
+  document.body.prepend(overlay);
 
-closeBtn.onclick = function () {
-  overlay.style.display = "none"
-};
+  closeBtn.onclick = function () {
+    overlay.style.display = "none";
+  };
 }, 5000);

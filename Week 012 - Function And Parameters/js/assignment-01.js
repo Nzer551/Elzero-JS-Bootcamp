@@ -1,10 +1,12 @@
-// Lessons from 56>>>63 Assignments
+// Lessons from 57>>>63 Assignments
 // Assignment 1
-
+// Solution
 function sayHello(theName, theGender) {
-  theGender === "Male" ? console.log(`Hello Mr ${theName}`) :
-  theGender === "Female" ? console.log(`Hello Miss ${theName}`) : 
-  console.log(`Hello ${theName}`);
+  theGender === "Male"
+    ? console.log(`Hello Mr ${theName}`)
+    : theGender === "Female"
+    ? console.log(`Hello Miss ${theName}`)
+    : console.log(`Hello ${theName}`);
 }
 
 // Needed Output

@@ -1,17 +1,17 @@
 // Lessons from 64>>>70 Assignments
 // Assignment 4
-
+// Solution
 function specialMix(...data) {
   let result = 0;
   let str = 0;
 
-  for(let elements of data) {
-    if(isNaN(parseInt(elements))) {
-        str++;
+  for (let elements of data) {
+    if (isNaN(parseInt(elements))) {
+      str++;
     } else {
-        result += parseInt(elements); 
+      result += parseInt(elements);
     }
-}
+  }
   return str === data.length ? "All Is String" : result;
 }
 

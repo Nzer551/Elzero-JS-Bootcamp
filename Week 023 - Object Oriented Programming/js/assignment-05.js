@@ -1,18 +1,18 @@
-// Lessons from 147>>>156 Assignments
+// Lessons from 147>>>158 Assignments
 // Assignment 5
 const myObj = {
   username: "Elzero",
   id: 100,
   score: 1000,
-  country: "Egypt",
+  country: "Egypt"
 };
 
-// Write Your Code Here
+// Solution
 Object.defineProperties(myObj, {
   id: {
     writable: true,
     enumerable: false,
-    configurable: true,
+    configurable: true
   },
   score: {
     writable: false,
@@ -32,6 +32,8 @@ for (let prop in myObj) {
 console.log(myObj);
 
 // Needed Output
-"username => Elzero"
-"score => 1000"
-// {username: 'Elzero', score: 1000, id: 100}
+/*
+("username => Elzero")
+("score => 1000")
+{username: 'Elzero', score: 1000, id: 100}
+*/

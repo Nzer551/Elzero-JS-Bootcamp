@@ -1,5 +1,5 @@
 // Lessons from 33>>>37 Assignments
-// Assignments 4
+// Assignment 4
 // Edit What You Want Here
 let num1 = 10;
 let num2 = 9;

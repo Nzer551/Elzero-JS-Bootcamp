@@ -1,16 +1,21 @@
 // Lessons from 33>>>37 Assignments
-// Assignments 1
-let num = 9;
+// Assignment 1
+// Test Case 1
+let num = 9; // "009"
 
-if( num < 10) {
+// Test Case 2
+//let num = 20; // "020"
+
+// Test Case 3
+//let num = 110; // "110"
+
+// Solution
+if (num < 10) {
   console.log(`00${num}`);
-}
-
-else if(num > 10) {
-  if(num < 100) {
-    console.log(`0${num}`)
-  }
-  else {
-    console.log(`${num}`)
+} else if (num > 10) {
+  if (num < 100) {
+    console.log(`0${num}`);
+  } else {
+    console.log(`${num}`);
   }
 }

@@ -1,8 +1,8 @@
-// Lessons from 147>>>156 Assignments
+// Lessons from 147>>>158 Assignments
 // Assignment 4
 
-// Write Your Code Here
-String.prototype.addLove = function() {
+// Solution
+String.prototype.addLove = function () {
   return `I Love ${this} Web School`;
 };
 

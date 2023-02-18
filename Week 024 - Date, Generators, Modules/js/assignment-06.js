@@ -1,12 +1,12 @@
-// Lessons from 147>>>156 Assignments
+// Lessons from 159>>>168 Assignments
 // Assignment 6
-
+// Solution >> Generator Function
 function* gen() {
   let value = 14;
   let rateOfIncrease = 140;
   let fixedValue = 200;
 
-  while(true) {
+  while (true) {
     yield value;
     value += rateOfIncrease;
     rateOfIncrease += fixedValue;

@@ -4,9 +4,16 @@ const member = {
   age: 30,
   working: false,
   country: "Egypt",
-  hobbies: ["Reading", "Swimming", "Programming"],
+  hobbies: ["Reading", "Swimming", "Programming"]
 };
-let {age: a, working: w, country: c, hobbies: [h1, , h3]} = member;
+
+// Solution
+let {
+  age: a,
+  working: w,
+  country: c,
+  hobbies: [h1, , h3]
+} = member;
 
 console.log(`My Age Is ${a} And Iam ${w ? "" : "Not"} Working`);
 // My Age Is 30 And Iam Not Working

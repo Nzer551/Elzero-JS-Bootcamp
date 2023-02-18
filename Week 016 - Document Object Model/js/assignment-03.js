@@ -1,5 +1,6 @@
 // Lessons from 86>>>93 Assignments
 // Assignment 3
+// Solution
 let myForm = document.forms[0];
 let myInput = document.querySelector("input[name='dollar']");
 let firstSpan = document.getElementsByTagName("span")[0];
@@ -15,9 +16,10 @@ myForm.style.cssText = `
 display: flex;
 justify-content: space-between;
 align-items: center;
+column-gap: 10px;
 background-color: dodgerblue;
 color: #fff;
-width: 800px;
+max-width: 800px;
 padding: 10px;
 border-radius: 5px;
 `;
@@ -27,8 +29,8 @@ outline: none;
 border: none;
 width: 120px;
 height: 30px;
-padding: 5px 3px;
-border-radius: 3px;
+padding: 5px 10px;
+border-radius: 5px;
 `;
 
 firstSpan.style.cssText = `
@@ -49,12 +51,12 @@ border-radius: 3px;
 
 myInput.oninput = function () {
   let finalresult = myInput.value * 15.6;
-  
-  if(myInput.value !== "") {
+
+  if (myInput.value !== "") {
     firstSpan.textContent = myInput.value;
     secondSpan.textContent = finalresult.toFixed(2);
   } else {
     firstSpan.textContent = 0;
     secondSpan.textContent = 0;
   }
-}
+};

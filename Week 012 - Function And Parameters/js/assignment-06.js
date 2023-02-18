@@ -1,15 +1,15 @@
-// Lessons from 56>>>63 Assignments
+// Lessons from 57>>>63 Assignments
 // Assignment 6
-
+// Solution
 function multiply(...numbers) {
     let result = 1;
 
     for (let i = 0; i < numbers.length; i++) {
-        if (typeof numbers[i] === "string") {
-            continue;
-        } else {
-            result *= parseInt(numbers[i]);
-        }
+      if (typeof numbers[i] === "string") {
+        continue;
+      } else {
+        result *= parseInt(numbers[i]);
+      }
     }
     console.log(result);
 }

@@ -2,7 +2,8 @@
 // Assignment 4
 let theNumber = 100020003000;
 
+// Solution
 console.log(+[...new Set([...theNumber.toString()])].sort().join(""));
 
 // Needed Output
-123
+// 123

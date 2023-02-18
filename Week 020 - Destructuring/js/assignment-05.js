@@ -7,16 +7,24 @@ const game = {
     "Oath In Felghana": ["USA", "Japan"],
     "Ark Of Napishtim": {
       US: "20 USD",
-      JAP: "10 USD",
+      JAP: "10 USD"
     },
-    Origin: "30 USD",
-  },
+    Origin: "30 USD"
+  }
 };
-let {title: t, developer: d, releases: {'Oath In Felghana': [u, j], 'Ark Of Napishtim': {US: u_price, JAP: j_price}, Origin: or}} = game;
+
+// Solution
+let {
+  title: t,
+  developer: d,
+  releases: {
+    "Oath In Felghana": [u, j],
+    "Ark Of Napishtim": { US: u_price, JAP: j_price },
+    Origin: or
+  }
+} = game;
 let gameReleases = Object.keys(game.releases);
 let [o, a] = gameReleases;
-
-// Write Your Destructuring Assignment/s Here
 
 console.log(`My Favourite Games Style Is ${t} Style`);
 // My Favourite Games Style Is YS Style

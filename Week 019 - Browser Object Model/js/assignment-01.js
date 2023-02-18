@@ -1,5 +1,6 @@
 // Lessons from 111>>>114 Assignments
 // Assignment 1
+// Solution
 let div = document.getElementById("style-option");
 let selectBoxes = document.querySelectorAll("select");
 let colorSelcetBox = document.getElementById("color");
@@ -14,7 +15,7 @@ align-items: center;
 column-gap: 5px;
 `;
 
-for(ele of selectBoxes) {
+for (ele of selectBoxes) {
   ele.style.cssText = `
   width: 150px;
   height: 30px;
@@ -27,7 +28,7 @@ for(ele of selectBoxes) {
   `;
 }
 
-for(let i = 16; i <= 30; i++) {
+for (let i = 16; i <= 30; i++) {
   let fontSizeOption = document.createElement("option");
 
   fontSizeOption.value = `${i}px`;
@@ -39,33 +40,32 @@ document.body.style.backgroundColor = colorSelcetBox.value;
 document.body.style.fontFamily = fontTypeSelectBox.value;
 document.body.style.fontSize = fontSizeSelectBox.value;
 
-function styleOptionChange () {
-
+function styleOptionChange() {
   colorSelcetBox.onchange = function (ele) {
     document.body.style.backgroundColor = ele.currentTarget.value;
     localStorage.setItem("color", ele.currentTarget.value);
-  }
-  
+  };
+
   fontTypeSelectBox.onchange = function (ele) {
     document.body.style.fontFamily = ele.currentTarget.value;
     localStorage.setItem("Font-Family", ele.currentTarget.value);
-  }
-  
+  };
+
   fontSizeSelectBox.onchange = function (ele) {
     document.body.style.fontSize = ele.currentTarget.value;
     localStorage.setItem("Font-Size", ele.currentTarget.value);
-  }
+  };
 }
 
-if(localStorage.getItem("color")) {
+if (localStorage.getItem("color")) {
   document.body.style.backgroundColor = localStorage.getItem("color");
   colorSelcetBox.value = localStorage.getItem("color");
-} 
-if(localStorage.getItem("Font-Family")) {
+}
+if (localStorage.getItem("Font-Family")) {
   document.body.style.fontFamily = localStorage.getItem("Font-Family");
   fontTypeSelectBox.value = localStorage.getItem("Font-Family");
 }
-if(localStorage.getItem("Font-Size")) {
+if (localStorage.getItem("Font-Size")) {
   document.body.style.fontSize = localStorage.getItem("Font-Size");
   fontSizeSelectBox.value = localStorage.getItem("Font-Size");
 }

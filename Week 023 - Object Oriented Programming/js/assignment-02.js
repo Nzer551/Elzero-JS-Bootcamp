@@ -1,4 +1,4 @@
-// Lessons from 147>>>156 Assignments
+// Lessons from 147>>>158 Assignments
 // Assignment 2
 
 class Phone {
@@ -9,13 +9,13 @@ class Phone {
   }
 }
 
-// Write Tablet Class Here
+// Solution
 class Tablet extends Phone {
   constructor(name, serial, price, size) {
     super(name, serial, price);
     this.tabletSize = size || "Unknown";
   }
-  fullDetails () {
+  fullDetails() {
     return `${this.name} Serial is ${this.serial} And Size Is ${this.tabletSize}`;
   }
 }

@@ -3,6 +3,7 @@
 let myFriends = ["Ahmed", "Elham", "Osama", "Gamal"];
 let num = 3;
 
+// Solutions
 // Method 1
 myFriends.pop();
 console.log(myFriends); // ["Ahmed", "Elham", "Osama"];

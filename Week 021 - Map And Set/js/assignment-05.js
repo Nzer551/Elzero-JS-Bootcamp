@@ -14,4 +14,4 @@ console.log(Array.from(theName));
 console.log(Object.assign([], theName));
 
 // Needed Output
-['E', 'l', 'z', 'e', 'r', 'o']
+// ['E', 'l', 'z', 'e', 'r', 'o']

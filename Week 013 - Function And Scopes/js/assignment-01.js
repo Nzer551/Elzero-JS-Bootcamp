@@ -1,21 +1,25 @@
 // Lessons from 64>>>70 Assignments
 // Assignment 1
-
+// Solution
 function getDetails(zName, zAge, zCountry) {
-  function namePattern(zName){
+  function namePattern(zName) {
     let theNameArr = zName.split(" ");
-    let theNameStr = `${theNameArr[0]} ${theNameArr[1].toUpperCase().slice(0, 1)}`;
-    
+    let theNameStr = `${theNameArr[0]} ${theNameArr[1]
+      .toUpperCase()
+      .slice(0, 1)}`;
+
     return `Hello ${theNameStr}.`;
   }
   function ageWithMessage(zAge) {
     return `Your Age Is ${parseInt(zAge)}`;
   }
   function countryTwoLetters(zCountry) {
-    return `You Live In ${zCountry.slice(0, 2).toUpperCase()}`
+    return `You Live In ${zCountry.slice(0, 2).toUpperCase()}`;
   }
   function fullDetails() {
-    return `${namePattern(zName)}, ${ageWithMessage(zAge)}, ${countryTwoLetters(zCountry)}`;
+    return `${namePattern(zName)}, ${ageWithMessage(zAge)}, ${countryTwoLetters(
+      zCountry
+    )}`;
   }
   return fullDetails();
 }

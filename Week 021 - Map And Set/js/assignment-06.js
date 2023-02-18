@@ -5,22 +5,38 @@ let charsArray = [];
 let numbersArray = [];
 let finalArray = [];
 
+// Solution
 function swapNumberAndReplace(mixedArray) {
-  mixedArray.forEach(element => {
+  mixedArray.forEach((element) => {
     if (typeof element === "number") {
       numbersArray.push(element);
     } else {
-      charsArray.push(element)
-    } 
+      charsArray.push(element);
+    }
     finalArray = [...numbersArray, ...charsArray];
-    if(numbersArray.length !== 0) {
+    if (numbersArray.length !== 0) {
       finalArray.copyWithin(0, numbersArray.length, 2 * numbersArray.length);
     }
   });
 }
 
 swapNumberAndReplace(chars);
-console.log(finalArray)
+console.log(finalArray);
 
 // Needed Output
-//['A', 'B', 'C', 'A', 'B', 'C', 'D', 'E']
+/* 
+let chars = ["A", "B", "C", "D", "E", 10, 15, 6];
+
+// Needed Output
+['A', 'B', 'C', 'A', 'B', 'C', 'D', 'E']
+
+let chars = ["A", "B", "C", 20, "D", "E", 10, 15, 6];
+
+// Needed Output
+['A', 'B', 'C', 'D', 'A', 'B', 'C', 'D', 'E']
+
+let chars = ["A", "B", "C", "D", "E", 10, 15, 6];
+
+// Needed Output
+['A', 'B', 'C', 'A', 'B', 'C', 'D', 'E']
+*/

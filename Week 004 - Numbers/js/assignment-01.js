@@ -1,6 +1,5 @@
 // Lessons from 23>>>26 Assignments
 // Assignment 1
-
 //Examples
 console.log(100_000); // 100000
 console.log(100000); // 100000

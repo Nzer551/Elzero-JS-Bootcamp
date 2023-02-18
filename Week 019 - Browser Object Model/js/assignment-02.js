@@ -1,5 +1,6 @@
 // Lessons from 111>>>114 Assignments
 // Assignment 2
+// Solution
 let form = document.forms[0];
 let countrySelect = document.getElementById("user-country");
 let countryOptions = document.getElementById("user-country").options;
@@ -20,8 +21,7 @@ border-radius: 5px;
 margin: auto;
 `;
 
-
-for(inpt of inputs) {
+for (inpt of inputs) {
   inpt.style.cssText = `
   height: 40px;
   border: 1px solid #bbb;
@@ -29,7 +29,7 @@ for(inpt of inputs) {
   padding: 5px;
   color: #333;
   `;
-  if(sessionStorage.getItem(inpt.id)) {
+  if (sessionStorage.getItem(inpt.id)) {
     inpt.value = sessionStorage.getItem(inpt.id);
   }
 }
@@ -42,26 +42,26 @@ padding: 5px;
 color: #333;
 `;
 
-for(option of countryOptions) {
+for (option of countryOptions) {
   option.textContent = option.value;
 }
 
 userName.onblur = function () {
   sessionStorage.setItem(userName.id, userName.value);
-}
+};
 
 userEmail.onblur = function () {
   sessionStorage.setItem(userEmail.id, userEmail.value);
-}
+};
 
 userPhoneNumber.onblur = function () {
   sessionStorage.setItem(userPhoneNumber.id, userPhoneNumber.value);
-}
+};
 
 countrySelect.onchange = function () {
   sessionStorage.setItem(countrySelect.id, countrySelect.value);
-}
+};
 
-if(sessionStorage.getItem(countrySelect.id)) {
+if (sessionStorage.getItem(countrySelect.id)) {
   countrySelect.value = sessionStorage.getItem(countrySelect.id);
 }

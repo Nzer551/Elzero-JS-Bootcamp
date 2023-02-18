@@ -2,6 +2,7 @@
 // Assignment 1
 let day = "   Friday  ";
 
+// Solution
 switch (
   day.trim().charAt(0).toUpperCase() + day.trim().slice(1, day.length - 1)
 ) {

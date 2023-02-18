@@ -8,10 +8,10 @@ function itsMe() {
 }
 console.log(itsMe()); // Iam A Normal Function
 
-// Arrow Function
-let itsMe = _ => `Iam an Arrow Function`;
+// Solution >> Arrow Function
+let itsAlsoMe = (_) => `Iam an Arrow Function`;
 
-console.log(itsMe()); // Iam an Arrow Function
+console.log(itsAlsoMe()); // Iam an Arrow Function
 
 // Normal Function
 function urlCreate(protocol, web, tld) {
@@ -19,7 +19,7 @@ function urlCreate(protocol, web, tld) {
 }
 console.log(urlCreate("https", "elzero", "org")); // https://www.elzero.org
 
-// Arrow Function
-let urlCreate = (protocol, web, tld) => `${protocol}://www.${web}.${tld}`;
+// Solution >> Arrow Function
+let urlCreateArrow = (protocol, web, tld) => `${protocol}://www.${web}.${tld}`;
 
-console.log(urlCreate("https", "elzero", "org")); // https://www.elzero.org
+console.log(urlCreateArrow("https", "elzero", "org")); // https://www.elzero.org

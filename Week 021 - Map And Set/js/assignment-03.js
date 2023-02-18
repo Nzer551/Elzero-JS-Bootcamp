@@ -3,15 +3,19 @@
 let myInfo = {
   username: "Osama",
   role: "Admin",
-  country: "Egypt",
+  country: "Egypt"
 };
+
+// Solution
 let myMap = new Map(Object.entries(myInfo));
 
 console.log(myMap);
 console.log(myMap.size);
-console.log(myMap.has("role"))
+console.log(myMap.has("role"));
 
 // Needed Output
-// Map(3) {'username' => 'Osama', 'role' => 'Admin', 'country' => 'Egypt'}
+/* 
+Map(3) {'username' => 'Osama', 'role' => 'Admin', 'country' => 'Egypt'}
 3
 true
+*/

@@ -1,9 +1,10 @@
-// Lessons from 147>>>156 Assignments
+// Lessons from 147>>>158 Assignments
 // Assignment 3
 
 // Edit The Class
+// Solution
 class User {
-  #c
+  #c;
   constructor(username, card) {
     this.u = username;
     this.#c = card;
