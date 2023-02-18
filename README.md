@@ -66,6 +66,7 @@ El zero JS bootcamp assignments and challenges with solutions
   7. [Assignment 7](https://codepen.io/Sideman/pen/ZEMGXJv)
 ### :white_check_mark: Week 011 - Loop - While
   [Lessons from 54>>>56 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/OJoVxxM)
 ### :white_check_mark: Week 012 - Function And Parameters
   [Lessons from 57>>>63 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/)
 ### :white_check_mark: Week 013 - Function And Scopes
