@@ -122,6 +122,11 @@ El zero JS bootcamp assignments and challenges with solutions
   2. [Assignment 2](https://codepen.io/Sideman/pen/WNgvXBL)
 ### :white_check_mark: Week 020 - Destructuring
   [Lessons from 115>>>122 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/RwYPjzj)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/VwGLroW)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/yLxNPmd)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/zYJGpYr)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/bGxdaNQ)
 ### :white_check_mark: Week 021 - Map And Set
   [Lessons from 123>>>133 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/)
 ### :white_check_mark: Week 022 - Regular Expression
