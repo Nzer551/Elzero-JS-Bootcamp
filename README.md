@@ -2,21 +2,21 @@
 El zero JS bootcamp assignments and challenges with solutions
 <details>
   
-  <summary>
+ <summary>
     
-   ## Challenges
+  ## Challenges
     
-  </summary>
+ </summary>
   
 </details>
 
 <details>
   
-  <summary>
+ <summary>
     
-   ## Assignments
-    
-  </summary>
+  ## Assignments
+   
+ </summary>
   
 <details>
   
