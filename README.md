@@ -1,7 +1,26 @@
 # Elzero-JS-Bootcamp
 El zero JS bootcamp assignments and challenges with solutions
 <details>
-<summary>Challenges</summary>
+<summary>Challenges</summary><br/>
+
+1. :white_check_mark: [Variable and concatenation challenge](https://codepen.io/Sideman/pen/abaOQrd)
+1. :white_check_mark: [Operators challenge](https://codepen.io/Sideman/pen/OJoVroq)
+1. :white_check_mark: [Number challenge](https://codepen.io/Sideman/pen/RwYWprL)
+1. :white_check_mark: [String challenge](https://codepen.io/Sideman/pen/ZEMbeWz)
+1. :white_check_mark: [If condition challenge](https://codepen.io/Sideman/pen/xxawqOO)
+1. :white_check_mark: [Switch and if condition challenge](https://codepen.io/Sideman/pen/RwYWpox)
+1. :white_check_mark: [Array challenge](https://codepen.io/Sideman/pen/mdGeWRX)
+1. :white_check_mark: [Loop challenge](https://codepen.io/Sideman/pen/KKxdWaL)
+1. :white_check_mark: [Random arguments function challenge](https://codepen.io/Sideman/pen/MWqapmW)
+1. :white_check_mark: [Arrow function challenge](https://codepen.io/Sideman/pen/PodPpmB)
+1. :white_check_mark: [Higher order function challenge](https://codepen.io/Sideman/pen/zYJvZzq)
+1. :white_check_mark: [DOM challenge](https://codepen.io/Sideman/pen/QWVjpgP)
+1. :white_check_mark: [BOM(to do list) challenge](https://codepen.io/Sideman/pen/rNZOyrL)
+1. :white_check_mark: [Destructuring challenge](https://codepen.io/Sideman/pen/GRXpWXX)
+1. :white_check_mark: [Map and set challenge](https://codepen.io/Sideman/pen/abavJRW)
+1. :white_check_mark: [Regular expressions challenge](https://codepen.io/Sideman/pen/bGxVqmy)
+1. :white_check_mark: [Add product to page practice](https://codepen.io/Sideman/pen/WNgQpYV)
+
 </details>
 
 <details>
