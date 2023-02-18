@@ -1,9 +1,9 @@
 // Operators Challenge 1
-/*
+
 let a = 10, b = "20", c = 80;
 
 console.log(++a + +b++ + +c++ - +a++);
-
+/*
 [++a]
 Value: 11;
    Explain: Pre Increment
@@ -22,9 +22,10 @@ Value: 11;
    [+a++]
    Value: 11
    Explain: Unary Plus and Post Increment
+*/
 
-//console.log(++a + -b + +c++ - -a++ + +a);
-
+console.log(++a + -b + +c++ - -a++ + +a);
+/*
    [++a]
    Value: 13;
    Explain: Pre Increment
@@ -48,9 +49,10 @@ Value: 11;
    [+a]
    Value: 14
    Explain: Unary Plus
+*/
 
-//console.log(--c + +b + --a * +b++ - +b * a + --a - +true);
-
+console.log(--c + +b + --a * +b++ - +b * a + --a - +true);
+/*
    [--c]
    Value: 81;
    Explain: Pre Decrement
@@ -92,7 +94,7 @@ Value: 11;
 
 
 // Operators Challenge 2
-/*
+
 let d = "-100", 
     e = "20", 
     f = 30, 
@@ -103,4 +105,3 @@ let d = "-100",
 
 console.log(-d * +e); //2000
 console.log(++g * ++e + -d + ++f); //173
-*/
