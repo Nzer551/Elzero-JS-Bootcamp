@@ -31,6 +31,8 @@ El zero JS bootcamp assignments and challenges with solutions
   7. [Assignment 7](https://codepen.io/Sideman/pen/JjadXLx)
 ### :white_check_mark: Week 005 - Strings And Methods
   [Lessons from 27>>>30 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/XWPbdqP)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/abaONGP)
 ### :white_check_mark: Week 006 - Comparison & Logical Operators
   [Lessons from 31>>>32 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/)
 ### :white_check_mark: Week 007 - If Condition
