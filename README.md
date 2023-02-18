@@ -129,6 +129,13 @@ El zero JS bootcamp assignments and challenges with solutions
   5. [Assignment 5](https://codepen.io/Sideman/pen/bGxdaNQ)
 ### :white_check_mark: Week 021 - Map And Set
   [Lessons from 123>>>133 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/abaOjGz)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/PodqBeO)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/NWLqBzz)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/LYJVBBN)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/WNgvKgg)
+  6. [Assignment 6](https://codepen.io/Sideman/pen/KKxpBGb)
+  7. [Assignment 7](https://codepen.io/Sideman/pen/GRXJBwM)
 ### :white_check_mark: Week 022 - Regular Expression
   [Lessons from 134>>>146 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)
 ### :white_check_mark: Week 023 - Object Oriented Programming
