@@ -35,8 +35,9 @@ El zero JS bootcamp assignments and challenges with solutions
       5. [Assignment 5](https://codepen.io/Sideman/pen/VwGYEJe)
       6. [Assignment 6](https://codepen.io/Sideman/pen/poOvxXZ)
   
-  
 </details>
+  
+  
 ### :white_check_mark: Week 001 - Introduction
   [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)
   1. [Assignment 1](https://codepen.io/Sideman/pen/gOdbdvy)
