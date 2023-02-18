@@ -1,16 +1,6 @@
-<style>
-  details {
-  margin: 0;
-  }
-  
-  h3, h2 {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  }
-</style>
 # Elzero-JS-Bootcamp
 El zero JS bootcamp assignments and challenges with solutions
-<details>
+<details style="margin: 0;">
   
 <summary>
 
