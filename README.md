@@ -86,7 +86,7 @@ El zero JS bootcamp assignments and challenges with solutions
 7. [Assignment 7](https://codepen.io/Sideman/pen/JjadXLx)
   
 </details>
-  ############################################## 5
+ 
 <details>
   
 <summary>
