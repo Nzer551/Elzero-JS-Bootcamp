@@ -49,6 +49,12 @@ El zero JS bootcamp assignments and challenges with solutions
   1. [Assignment 1](https://codepen.io/Sideman/pen/bGxdpOW)
 ### :white_check_mark: Week 009 - Arrays And Methods
   [Lessons from 40>>>47 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/RwYPavr)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/WNgvwPZ)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/XWPbdOy)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/dyqoMry)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/bGxdpZR)
+  6. [Assignment 6](https://codepen.io/Sideman/pen/ExejKMr)
 ### :white_check_mark: Week 010 - Loop - For
   [Lessons from 48>>>53 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/)
 ### :white_check_mark: Week 011 - Loop - While
