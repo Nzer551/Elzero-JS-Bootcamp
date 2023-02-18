@@ -1,5 +1,6 @@
 # Elzero JS Bootcamp Assignments and Challenges with Solutions
 ![Elzero JavaScript Bootcamp Poster](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/master/Image/JS-Bootcamp.png)
+<hr/>
 <details>
 <summary>
  
@@ -25,7 +26,7 @@
 - :white_check_mark: [Regular expressions challenge](https://codepen.io/Sideman/pen/bGxVqmy)
 - :white_check_mark: [Add product to page practice](https://codepen.io/Sideman/pen/WNgQpYV)
 
-</details>
+</details><hr/>
 
 <details>
   
@@ -387,6 +388,6 @@
   
 </details>
 
-</details>
+</details><hr/>
 
 ### Are you interested in this course? [start now](https://www.youtube.com/c/ElzeroInfo)
