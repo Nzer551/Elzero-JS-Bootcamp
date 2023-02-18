@@ -1,4 +1,5 @@
 # Elzero-JS-Bootcamp
+![Elzero JavaScript Bootcamp Poster](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/master/Image/JS-Bootcamp.png)
 El zero JS bootcamp assignments and challenges with solutions
 ### Are you interested in this course? [start now](https://www.youtube.com/c/ElzeroInfo)
 <details>
