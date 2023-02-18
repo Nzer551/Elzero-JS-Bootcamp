@@ -40,6 +40,10 @@ El zero JS bootcamp assignments and challenges with solutions
   3. [Assignment 3](https://codepen.io/Sideman/pen/xxaGVJM)
 ### :white_check_mark: Week 007 - If Condition
   [Lessons from 33>>>37 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/abaONaX)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/mdGJPzV)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/ExejKdG)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/PodqNxG)
 ### :white_check_mark: Week 008 - Switch Statement
   [Lessons from 38>>>39 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/)
 ### :white_check_mark: Week 009 - Arrays And Methods
