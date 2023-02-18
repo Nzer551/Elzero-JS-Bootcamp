@@ -16,6 +16,10 @@ El zero JS bootcamp assignments and challenges with solutions
   4. [Assignment 4](https://codepen.io/Sideman/pen/mdGyNMz)
 ### :white_check_mark: Week 003 - Operators
   [Lessons from 18>>>22 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/dyqoGNJ)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/rNZVxyM)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/abaOdWW)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/PodqZmX)
 ### :white_check_mark: Week 004 - Numbers
   [Lessons from 23>>>26 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/)
 ### :white_check_mark: Week 005 - Strings And Methods
