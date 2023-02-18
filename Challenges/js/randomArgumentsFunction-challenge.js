@@ -1,5 +1,4 @@
 // Random Argument Function Challenge
-
 function showDetails(a, b, c) {
   let userName, age, permission;
   typeof a === "number" ? age = a : typeof a === "string" ? userName = a : permission = a;

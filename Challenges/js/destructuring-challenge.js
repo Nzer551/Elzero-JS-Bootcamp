@@ -1,7 +1,5 @@
 // Destructuring Challenge
-
 let chosen = 1;
-
 let myFriends = [{
   title: "Osama",
   age: 39,

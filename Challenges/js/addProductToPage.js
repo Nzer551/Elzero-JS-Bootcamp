@@ -1,9 +1,6 @@
 // Practice - Add Product To Page
-
 let products = ["keyboard", "Mouse", "Pen", "Pad", "Screen", "Monitor"]
-
 let colors = ["Red", "Green", "Black"];
-
 let count = 3;
 
 document.write(`<h1>Show ${count} Products</h1>`);

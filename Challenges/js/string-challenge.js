@@ -1,5 +1,4 @@
 // String Challenge
-
 let a = "Elzero Web School";
 
 // Include This Methods in Your Solution [slice(), charAt()]

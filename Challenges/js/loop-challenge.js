@@ -1,5 +1,4 @@
 // Loop Challenge
-
 let myAdmins = ["Ahmed", "Osama", "Sayed", "Ali", "Stop", "Samera"];
 let myEmployees = ["Amgad", "Samah", "Ameer", "Omar", "Othman", "Amany", "Samia", "Safaa"];
 

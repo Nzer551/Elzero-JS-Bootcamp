@@ -1,5 +1,4 @@
 // Arrow Function Challenge
-
 // Normal Function
 let names = function (...members) {
   return `String [${members.join("], [")}] => Done !`;
@@ -10,7 +9,6 @@ let names1 = (...members) => `String [${members.join("], [")}] => Done !`;
 
 console.log(names1("Osama", "Mohamed", "Ali", "Ibrahim"));
 // String [Osama], [Mohamed], [Ali], [Ibrahim] => Done !
-
 
 let myNumbers = [20, 50, 10, 60];
 

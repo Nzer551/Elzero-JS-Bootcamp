@@ -1,5 +1,4 @@
 // Number Challenge
-
 let a = 1_00, 
     b = 2_00.5, 
     c = 1e2, 

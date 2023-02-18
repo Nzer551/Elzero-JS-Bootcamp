@@ -1,5 +1,4 @@
 // BOOM Challenge (To Do List)
-
 let container = document.getElementById("container");
 let form = document.forms[0];
 let taskTitleInput = document.getElementById("task-title");

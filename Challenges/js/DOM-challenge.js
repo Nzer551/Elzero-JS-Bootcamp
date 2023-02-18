@@ -1,9 +1,8 @@
 // DOM Challenge
-
 let header = document.createElement("header");
 let logoDiv = document.createElement("div");
 let logoLink = document.createElement("a");
-let theScript = document.getElementsByTagName("script")[0];
+let scriptElement = document.getElementById("dom-challenge");
 let theUl = document.createElement("ul");
 let theContent = document.createElement("div");
 let theFooter = document.createElement("footer");
@@ -164,6 +163,6 @@ theFooter.className = "footer";
 theFooter.textContent = "Copyright 2022";
 
 // Append Header & Content & Footer To Body
-theScript.before(header);
-theScript.before(theContent);
-theScript.before(theFooter);
+scriptElement.before(header);
+scriptElement.before(theContent);
+scriptElement.before(theFooter);

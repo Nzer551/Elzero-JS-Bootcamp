@@ -1,5 +1,4 @@
 // Operators Challenge 1
-
 let a = 10, b = "20", c = 80;
 
 console.log(++a + +b++ + +c++ - +a++);
@@ -94,7 +93,6 @@ console.log(--c + +b + --a * +b++ - +b * a + --a - +true);
 
 
 // Operators Challenge 2
-
 let d = "-100", 
     e = "20", 
     f = 30, 

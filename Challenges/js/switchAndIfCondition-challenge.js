@@ -1,6 +1,5 @@
 // Switch And If Condition Challenge
 // Switch Challenge
-
 let job = "Manager";
 let salary = 0;
 
@@ -37,7 +36,6 @@ switch (job) {
 }
 
 // If Challenge
-
 let holidays = 0;
 let money = 0;
 

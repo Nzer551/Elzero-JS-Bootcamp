@@ -1,5 +1,4 @@
 // Regular Expressions Challenge
-
 let url1 = 'elzero.org';
 let url2 = 'http://elzero.org';
 let url3 = 'https://elzero.org';

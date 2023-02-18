@@ -1,5 +1,4 @@
 // If Condition Challenge
-
 let a = 10;
 
 if (a < 10) {
