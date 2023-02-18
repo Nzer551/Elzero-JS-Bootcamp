@@ -162,11 +162,11 @@ El zero JS bootcamp assignments and challenges with solutions
   8. [Assignment 8](https://codepen.io/Sideman/pen/GRXJwpj)
 ### :white_check_mark: Week 025 - AJAX And JSON
   [Lessons from 169>>>178 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
-  1. [Assignment 1](https://github.com/Nzer551/Elzero-JS-Bootcamp/tree/master/Week 025 - AJAX And JSON/json/assignment-01-articles.json)
-  2. [Assignment 2](https://github.com/Nzer551/Elzero-JS-Bootcamp/tree/master/Week 025 - AJAX And JSON/js/assignment-02.js)
-  3. [Assignment 3](https://github.com/Nzer551/Elzero-JS-Bootcamp/tree/master/Week 025 - AJAX And JSON/js/assignment-03.js)
-  4. [Assignment 4](https://github.com/Nzer551/Elzero-JS-Bootcamp/tree/master/Week 025 - AJAX And JSON/js/assignment-04.js)
+  1. [Assignment 1](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/82fa7a69211fab8585ec71884b68a44ed699fca7/Week%20025%20-%20AJAX%20And%20JSON/json/assignment-01-articles.json)
+  2. [Assignment 2](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/82fa7a69211fab8585ec71884b68a44ed699fca7/Week%20025%20-%20AJAX%20And%20JSON/js/assignment-02.js)
+  3. [Assignment 3](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/82fa7a69211fab8585ec71884b68a44ed699fca7/Week%20025%20-%20AJAX%20And%20JSON/js/assignment-03.js)
+  4. [Assignment 4](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/82fa7a69211fab8585ec71884b68a44ed699fca7/Week%20025%20-%20AJAX%20And%20JSON/js/assignment-03.js)
 ### :white_check_mark: Week 026 - Promises
   [Lessons from 179>>>188 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
-  1. [Assignment 1](https://github.com/Nzer551/Elzero-JS-Bootcamp/tree/master/Week 026 - Promises/js/assignment-01.js)
-  2. [Assignment 2](https://github.com/Nzer551/Elzero-JS-Bootcamp/tree/master/Week 026 - Promises/js/assignment-02.js)
+  1. [Assignment 1](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/663b0c2bd3cf195455e2f48d216668123b239025/Week%20026%20-%20Promises/js/assignment-01.js)
+  2. [Assignment 2](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/663b0c2bd3cf195455e2f48d216668123b239025/Week%20026%20-%20Promises/js/assignment-02.js)
