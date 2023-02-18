@@ -5,6 +5,7 @@ El zero JS bootcamp assignments and challenges with solutions
   <summary>
     
    ## Challenges
+    
   </summary>
   
 </details>
@@ -12,7 +13,8 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
   <summary>
     
-    ## Assignments 
+    ## Assignments
+    
   </summary>
   
 ### :white_check_mark: Week 001 - Introduction
