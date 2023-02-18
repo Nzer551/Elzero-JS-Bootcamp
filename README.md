@@ -1,7 +1,6 @@
 # Elzero-JS-Bootcamp
 El zero JS bootcamp assignments and challenges with solutions
-<details>
-<summary>##Assignments</summary>
+## Assignments
 ### :white_check_mark: Week 001 - Introduction
   [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)
   1. [Assignment 1](https://codepen.io/Sideman/pen/gOdbdvy)
@@ -172,4 +171,3 @@ El zero JS bootcamp assignments and challenges with solutions
   [Lessons from 179>>>188 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
   1. [Assignment 1](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/663b0c2bd3cf195455e2f48d216668123b239025/Week%20026%20-%20Promises/js/assignment-01.js)
   2. [Assignment 2](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/663b0c2bd3cf195455e2f48d216668123b239025/Week%20026%20-%20Promises/js/assignment-02.js)
-  </details
