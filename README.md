@@ -189,4 +189,4 @@ El zero JS bootcamp assignments and challenges with solutions
   1. [Assignment 1](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/663b0c2bd3cf195455e2f48d216668123b239025/Week%20026%20-%20Promises/js/assignment-01.js)
   2. [Assignment 2](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/663b0c2bd3cf195455e2f48d216668123b239025/Week%20026%20-%20Promises/js/assignment-02.js)
 
-  </details>
+</details>
