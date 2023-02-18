@@ -152,6 +152,14 @@ El zero JS bootcamp assignments and challenges with solutions
   5. [Assignment 5](https://codepen.io/Sideman/pen/wvEaEMQ)
 ### :white_check_mark: Week 024 - Date, Generators, Modules
   [Lessons from 159>>>168 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/JjadaKE)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/xxaGaEg)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/zYJGJoB)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/BaONOQG)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/ExejeZg)
+  6. [Assignment 6](https://codepen.io/Sideman/pen/abaOaJp)
+  7. [Assignment 7](https://codepen.io/Sideman/pen/MWqwqmw)
+  8. [Assignment 8](https://codepen.io/Sideman/pen/GRXJwpj)
 ### :white_check_mark: Week 025 - AJAX And JSON
   [Lessons from 169>>>178 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
 ### :white_check_mark: Week 026 - Promises
