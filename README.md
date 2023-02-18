@@ -96,6 +96,12 @@ El zero JS bootcamp assignments and challenges with solutions
   4. [Assignment 4](https://codepen.io/Sideman/pen/YzOXrBP)
 ### :white_check_mark: Week 016 - Document Object Model
   [Lessons from 86>>>93 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/WNgvZmE)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/oNPXGRv)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/YzOXroX)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/jOvPGgY)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/ZEMGazM)
+  6. [Assignment 6](https://codepen.io/Sideman/pen/OJoVOVm)
 ### :white_check_mark: Week 017 - Document Object Model
   [Lessons from 94>>>101 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-094-to-101/)
 ### :white_check_mark: Week 018 - Browser Object Model
