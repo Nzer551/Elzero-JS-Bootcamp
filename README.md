@@ -111,6 +111,11 @@ El zero JS bootcamp assignments and challenges with solutions
   5. [Assignment 5](https://codepen.io/Sideman/pen/oNPXoEL)
 ### :white_check_mark: Week 018 - Browser Object Model
   [Lessons from 102>>>110 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/NWLqwMz)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/oNPXoyz)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/oNPXoMz)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/xxaGPaw)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/oNPXoaY)
 ### :white_check_mark: Week 019 - Browser Object Model
   [Lessons from 111>>>114 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/)
 ### :white_check_mark: Week 020 - Destructuring
