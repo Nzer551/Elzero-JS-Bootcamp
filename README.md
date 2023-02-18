@@ -5,12 +5,12 @@ El zero JS bootcamp assignments and challenges with solutions
 </details>
 
 <details>
-<summary>Assignments</summary>
+<summary>Assignments</summary><br/>
 
 <details>
 <summary>
 :white_check_mark: Week 001 - Introduction
-</summary>
+</summary><br/>
 
 [Lessons from 1>>>9 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-001-to-009/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/gOdbdvy)
@@ -25,7 +25,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 002 - Data Types And Variables
-</summary>
+</summary><br/>
   
 [Lessons from 10>>>17 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-010-to-017/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/VwGYoKQ)
@@ -38,7 +38,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 003 - Operators
-</summary>
+</summary><br/>
   
 [Lessons from 18>>>22 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-018-to-022/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/dyqoGNJ)
@@ -51,7 +51,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 004 - Numbers
-</summary>
+</summary><br/>
   
 [Lessons from 23>>>26 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-023-to-026/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/ExejPew)
@@ -67,7 +67,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 005 - Strings And Methods
-</summary>
+</summary><br/>
 
 [Lessons from 27>>>30 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-027-to-030/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/XWPbdqP)
@@ -78,7 +78,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 006 - Comparison & Logical Operators
-</summary>
+</summary><br/>
   
 [Lessons from 31>>>32 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-031-to-032/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/WNgvwKO)
@@ -90,7 +90,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 007 - If Condition
-</summary>
+</summary><br/>
   
 [Lessons from 33>>>37 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-033-to-037/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/abaONaX)
@@ -103,7 +103,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 008 - Switch Statement
-</summary>
+</summary><br/>
   
 [Lessons from 38>>>39 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/bGxdpOW)
@@ -113,7 +113,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 009 - Arrays And Methods
-</summary>
+</summary><br/>
   
 [Lessons from 40>>>47 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/RwYPavr)
@@ -128,7 +128,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 010 - Loop - For
-</summary>
+</summary><br/>
   
 [Lessons from 48>>>53 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/WNgvZpG)
@@ -144,7 +144,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 011 - Loop - While
-</summary>
+</summary><br/>
   
 [Lessons from 54>>>56 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/OJoVxxM)
@@ -154,7 +154,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 012 - Function And Parameters
-</summary>
+</summary><br/>
   
 [Lessons from 57>>>63 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-057-to-063/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/LYJVzzq)
@@ -169,7 +169,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 013 - Function And Scopes
-</summary>
+</summary><br/>
   
 [Lessons from 64>>>70 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/vYzOejB)
@@ -182,7 +182,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 014 - Higher Order Functions
-</summary>
+</summary><br/>
   
 [Lessons from 71>>>78 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/jOvPGpL)
@@ -196,7 +196,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 015 - Objects And Methods
-</summary>
+</summary><br/>
   
 [Lessons from 79>>>85 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-079-to-085/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/GRXJMwo)
@@ -209,7 +209,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 016 - Document Object Model
-</summary>
+</summary><br/>
 
 [Lessons from 86>>>93 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-086-to-093/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/WNgvZmE)
@@ -224,7 +224,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 017 - Document Object Model
-</summary>
+</summary><br/>
   
 [Lessons from 94>>>101 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-094-to-101/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/BaONmKd)
@@ -238,7 +238,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 018 - Browser Object Model
-</summary>
+</summary><br/>
   
 [Lessons from 102>>>110 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-102-to-110/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/NWLqwMz)
@@ -252,7 +252,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 019 - Browser Object Model
-</summary>
+</summary><br/>
   
 [Lessons from 111>>>114 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-111-to-114/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/XWPbzQJ)
@@ -263,7 +263,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 020 - Destructuring
-</summary>
+</summary><br/>
   
 [Lessons from 115>>>122 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-115-to-122/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/RwYPjzj)
@@ -277,7 +277,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 021 - Map And Set
-</summary>
+</summary><br/>
 
 [Lessons from 123>>>133 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-123-to-133/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/abaOjGz)
@@ -293,7 +293,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 022 - Regular Expression
-</summary>
+</summary><br/>
   
 [Lessons from 134>>>146 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/PodqBXQ)
@@ -307,7 +307,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 023 - Object Oriented Programming
-</summary>
+</summary><br/>
 
 [Lessons from 147>>>158 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/ExejexP)
@@ -321,7 +321,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 024 - Date, Generators, Modules
-</summary>
+</summary><br/>
 
 [Lessons from 159>>>168 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)
 1. [Assignment 1](https://codepen.io/Sideman/pen/JjadaKE)
@@ -338,7 +338,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 025 - AJAX And JSON
-</summary>
+</summary><br/>
   
 [Lessons from 169>>>178 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-169-to-178/)
 1. [Assignment 1](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/82fa7a69211fab8585ec71884b68a44ed699fca7/Week%20025%20-%20AJAX%20And%20JSON/json/assignment-01-articles.json)
@@ -351,7 +351,7 @@ El zero JS bootcamp assignments and challenges with solutions
 <details>
 <summary>
 :white_check_mark: Week 026 - Promises
-</summary>
+</summary><br/>
 
 [Lessons from 179>>>188 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-179-to-188/)
 1. [Assignment 1](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/663b0c2bd3cf195455e2f48d216668123b239025/Week%20026%20-%20Promises/js/assignment-01.js)
