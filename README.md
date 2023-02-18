@@ -1,13 +1,9 @@
 # Elzero-JS-Bootcamp
 El zero JS bootcamp assignments and challenges with solutions
 <details>
-  
 <summary>
-    
 ## Challenges
-    
 </summary>
-  
 </details>
 
 <details>
