@@ -77,6 +77,10 @@ El zero JS bootcamp assignments and challenges with solutions
   6. [Assignment 6](https://codepen.io/Sideman/pen/yLxNzvP)
 ### :white_check_mark: Week 013 - Function And Scopes
   [Lessons from 64>>>70 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-064-to-070/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/vYzOejB)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/yLxNzjP)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/dyqoVeB)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/jOvPGKL)
 ### :white_check_mark: Week 014 - Higher Order Functions
   [Lessons from 71>>>78 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-071-to-078/)
 ### :white_check_mark: Week 015 - Objects And Methods
