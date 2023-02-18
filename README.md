@@ -57,6 +57,13 @@ El zero JS bootcamp assignments and challenges with solutions
   6. [Assignment 6](https://codepen.io/Sideman/pen/ExejKMr)
 ### :white_check_mark: Week 010 - Loop - For
   [Lessons from 48>>>53 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-048-to-053/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/WNgvZpG)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/xxaGXqa)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/KKxpXmm)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/VwGLMbN)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/poOJWww)
+  6. [Assignment 6](https://codepen.io/Sideman/pen/RwYPLgX)
+  7. [Assignment 7](https://codepen.io/Sideman/pen/ZEMGXJv)
 ### :white_check_mark: Week 011 - Loop - While
   [Lessons from 54>>>56 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-054-to-056/)
 ### :white_check_mark: Week 012 - Function And Parameters
