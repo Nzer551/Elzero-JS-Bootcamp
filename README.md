@@ -1,7 +1,11 @@
 # Elzero JS Bootcamp Assignments and Challenges with Solutions
 ![Elzero JavaScript Bootcamp Poster](https://github.com/Nzer551/Elzero-JS-Bootcamp/blob/master/Image/JS-Bootcamp.png)
 <details>
-<summary>Challenges</summary><br/>
+<summary>
+ 
+## Challenges
+ 
+</summary>
 
 - :white_check_mark: [Variable and concatenation challenge](https://codepen.io/Sideman/pen/abaOQrd)
 - :white_check_mark: [Operators challenge](https://codepen.io/Sideman/pen/OJoVroq)
@@ -24,7 +28,12 @@
 </details>
 
 <details>
-<summary>Assignments</summary><br/>
+  
+<summary>
+
+## Assignments
+
+</summary>
 
 <details>
 <summary>
