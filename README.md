@@ -145,6 +145,11 @@ El zero JS bootcamp assignments and challenges with solutions
   5. [Assignment 5](https://codepen.io/Sideman/pen/WNgvKma)
 ### :white_check_mark: Week 023 - Object Oriented Programming
   [Lessons from 147>>>158 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/ExejexP)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/KKxpxwL)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/qBMdMOR)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/MWqwqKW)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/wvEaEMQ)
 ### :white_check_mark: Week 024 - Date, Generators, Modules
   [Lessons from 159>>>168 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-159-to-168/)
 ### :white_check_mark: Week 025 - AJAX And JSON
