@@ -46,6 +46,7 @@ El zero JS bootcamp assignments and challenges with solutions
   4. [Assignment 4](https://codepen.io/Sideman/pen/PodqNxG)
 ### :white_check_mark: Week 008 - Switch Statement
   [Lessons from 38>>>39 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-038-to-039/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/bGxdpOW)
 ### :white_check_mark: Week 009 - Arrays And Methods
   [Lessons from 40>>>47 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-040-to-047/)
 ### :white_check_mark: Week 010 - Loop - For
