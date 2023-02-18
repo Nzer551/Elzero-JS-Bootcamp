@@ -138,6 +138,11 @@ El zero JS bootcamp assignments and challenges with solutions
   7. [Assignment 7](https://codepen.io/Sideman/pen/GRXJBwM)
 ### :white_check_mark: Week 022 - Regular Expression
   [Lessons from 134>>>146 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-134-to-146/)
+  1. [Assignment 1](https://codepen.io/Sideman/pen/PodqBXQ)
+  2. [Assignment 2](https://codepen.io/Sideman/pen/abaOjXv)
+  3. [Assignment 3](https://codepen.io/Sideman/pen/NWLqBoL)
+  4. [Assignment 4](https://codepen.io/Sideman/pen/LYJVBaR)
+  5. [Assignment 5](https://codepen.io/Sideman/pen/WNgvKma)
 ### :white_check_mark: Week 023 - Object Oriented Programming
   [Lessons from 147>>>158 Assignments](https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/)
 ### :white_check_mark: Week 024 - Date, Generators, Modules
