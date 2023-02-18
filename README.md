@@ -1,5 +1,6 @@
 # Elzero-JS-Bootcamp
 El zero JS bootcamp assignments and challenges with solutions
+### Are you interested in this course? [start now](https://www.youtube.com/c/ElzeroInfo)
 <details>
 <summary>Challenges</summary><br/>
 
